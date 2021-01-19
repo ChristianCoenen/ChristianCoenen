@@ -20,6 +20,11 @@
 </a>
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=christiancoenen&layout=compact&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000" />
+</a>
+
+
 ### Skills : <br/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg" />
