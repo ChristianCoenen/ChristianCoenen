@@ -20,7 +20,7 @@
 </a>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://wakatime.com/@christiancoenen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=christiancoenen&layout=compact&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000" />
 </a>
 
