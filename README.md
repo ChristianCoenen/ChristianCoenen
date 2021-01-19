@@ -12,8 +12,15 @@
 - ⚡ Fun fact: I have a skydiver license
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=christiancoenen&count_private=true&include_all_commits=true&show_icons=true&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiancoenen&count_private=true&layout=compact&exclude_repo=Botforge&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000" />
+</a>
+
 ![Christian Coenen's github stats](https://github-readme-stats.vercel.app/api?username=christiancoenen&count_private=true&show_icons=true&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000)
-![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=christiancoenen&layout=compact&exclude_repo=Botforge&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000)
+![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=christiancoenen&count_private=true&layout=compact&exclude_repo=Botforge&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000)
 
 
 ### Skills : <br/>
