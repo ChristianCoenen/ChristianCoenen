@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning about Artificial Intelligence (AI)
 - 👯 I’m looking to collaborate on cool YouTube video ideas
 - 💬 Ask me about Python, AI, Content Creation
-- 📫 How to reach me: I'd recommend [here](https://discord.com/invite/6fRE4DE) through Discord
 - ⚡ Fun fact: I have a skydiver license
 
 
