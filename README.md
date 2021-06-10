@@ -13,7 +13,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=christiancoenen&count_private=true&include_all_commits=true&show_icons=true&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000" />
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=christiancoenen&count_private=true&role=OWNER,ORGANIZATION_MEMBER&include_all_commits=true&show_icons=true&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiancoenen&count_private=true&layout=compact&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000" />
