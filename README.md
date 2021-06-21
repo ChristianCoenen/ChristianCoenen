@@ -10,10 +10,5 @@
 - 💬 Ask me about Python, AI, Content Creation
 - ⚡ Fun fact: I have a skydiver license
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=christiancoenen&count_private=true&role=OWNER,ORGANIZATION_MEMBER&include_all_commits=true&show_icons=true&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiancoenen&count_private=true&layout=compact&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000" />
-</a>
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api?username=christiancoenen&count_private=true&role=OWNER,ORGANIZATION_MEMBER&include_all_commits=true&show_icons=true&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000)
+![Github stats](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=christiancoenen&role=OWNER,ORGANIZATION_MEMBER&count_private=true&layout=compact&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000)
