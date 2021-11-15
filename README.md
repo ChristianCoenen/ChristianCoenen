@@ -4,7 +4,7 @@
 **ChristianCoenen/ChristianCoenen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working for [Bending Spoons](https://bendingspoons.com/) as a Software Engineer
+- 🔭 I’m working for [Bending Spoons](https://bendingspoons.com/) as a Software Engineer
 - 🌱 I’m currently learning about Cryptocurrencies
 - 💬 Ask me about Python, AI, Cryptocurrencies, Investing, Content Creation
 - ⚡ Fun fact: I have a YouTube Channel ([Bot Academy](https://www.youtube.com/BotAcademyYT))
